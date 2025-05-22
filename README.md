@@ -24,7 +24,6 @@ Me encanta trabajar en proyectos que desafíen mis habilidades y me permitan apr
 ¡Me encanta colaborar en proyectos interesantes! Si quieres contactarme, no dudes en escribirme:
 
 - 📧 Email: [akaristr@protonmail.com](mailto:akaristr@protonmail.com)
-- 🐦 Twitter: [@alister00_](https://twitter.com/alister00_)
 
 ## ⭐ Estadísticas de GitHub
 
