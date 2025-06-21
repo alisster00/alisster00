@@ -11,13 +11,14 @@ Me encanta trabajar en proyectos que desafíen mis habilidades y me permitan apr
 - **Frontend:** React, HTML/CSS
 - **Bases de datos:** PostgreSQL, MongoDB, SQLite
 - **Herramientas:** Git, Docker, AWS, CI/CD
-- **Otros:** APIs REST, GraphQL, Web Scraping (Beautiful Soup, Scrapy)
+- **Otros:** APIs REST, GraphQL, Web Scraping, VIM
 
 ## 📲 Actualmente aprendiendo
 
 - [ ] Machine Learning con Python
 - [ ] Desarrollo de aplicaciones con React Native
 - [ ] Patrones de diseño avanzados en JavaScript
+- [ ] Bash
 
 ## 📫 Contacto
 
